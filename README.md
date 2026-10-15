@@ -69,7 +69,7 @@
 ## 4. دليل الملفات والمجلدات
 
 
-### 4.1 قائمة أفضل 30 جامعة عالمية في الحوسبة والهندسة. (<Top 30 universities Computer Engineering academic degree/>)
+### 4.1 قائمة أفضل 30 جامعة عالمية في الحوسبة والهندسة.
 
 **Top 30 Global Universities — Computing & Engineering**
 
